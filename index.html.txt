@@ -7,5 +7,19 @@
     <title>Mon CV</title>
 </head>
 <body>
+<header>
+        </header>
+
+    <section>
+        <h2>Description</h2>
+        <p>
+            Étudiante passionnée par le
+             développement web et la Sécurité Informatique, je cherche à mettre en
+              pratique mes compétences en HTML, CSS et Git
+               acquises lors de ma formation. Motivée et rigoureuse, je suis prête à
+                relever de nouveaux défis.
+        </p>
+    </section>
+
     </body>
 </html>
