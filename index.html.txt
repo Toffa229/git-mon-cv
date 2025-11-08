@@ -7,5 +7,35 @@
     <title>Mon CV</title>
 </head>
 <body>
+<section id="Formations">
+    <h2>Formation & Diplômes</h2>
+    
+    <article>
+        <h3>Master en Développement Web & Mobile</h3>
+        <p>Université de Technologie de Cotonou (UTC), Cotonou, Bénin</p>
+        <p><em>Septembre 2023 - Juin 2025</em></p>
+    </article>
+    
+    <article>
+        <h3>Licence Professionnelle en Informatique de Gestion</h3>
+        <p>Institut Supérieur de Commerce et d'Administration (ISCA), Porto-Novo, Bénin</p>
+        <p><em>Septembre 2020 - Juin 2023</em></p>
+    </article>
+    
+    <article>
+        <h3>Certification Git et GitHub Essentiels</h3>
+        <p>Plateforme de formation en ligne (Ex: Coursera/Udemy/OpenClassrooms)</p>
+        <p><em>Obtenue en Janvier 2025</em></p>
+    </article>
+
+     <article>
+        <h3>Certification Git et GitHub Essentiels</h3>
+        <p>Plateforme de formation en ligne (Ex: Coursera/Udemy/OpenClassrooms)</p>
+        <p><em>Obtenue en Janvier 2025</em></p>
+    </article>
+
+    
+</section>
+
     </body>
 </html>
