@@ -7,5 +7,11 @@
     <title>Mon CV</title>
 </head>
 <body>
+ <header>
+        <h1>Toffa Merveille</h1>
+        <h2>Etudiante</h2>
+        <p>Email: valencetoffa@gmail.com | Téléphone:0159747285</p>
+    </header>
+
     </body>
 </html>
