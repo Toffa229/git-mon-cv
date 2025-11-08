@@ -7,5 +7,31 @@
     <title>Mon CV</title>
 </head>
 <body>
+<section>
+        <h2>Associations</h2>
+        
+        <div class="association-item">
+            <h3>Les Codeurs Solidaires</h3>
+            <p class="date">Septembre 2024 - Présent</p>
+            <ul>
+                <li>Participation au développement de la plateforme web de gestion des adhésions.</li>
+                <li>Organisation des ateliers d'initiation au HTML/CSS pour les nouveaux membres.</li>
+                <li>Animation d'une équipe de trois bénévoles pour la gestion du matériel.</li>
+            </ul>
+        </div>
+        
+        <div class="association-item">
+            <h3>Club de Lecture "Les Mots Voyageurs"</h3>
+            <p class="date">Janvier 2023 - Juin 2024</p>
+            <ul>
+                <li>Gestion de la logistique des rencontres mensuelles du club.</li>
+                <li>Création des affiches et des supports de communication pour les événements.</li>
+            </ul>
+        </div>
+        
+    </section>
+    
+
+
     </body>
 </html>
