@@ -7,5 +7,40 @@
     <title>Mon CV</title>
 </head>
 <body>
+<section id="Compétences">
+    <h2>Mes compétences</h2>
+    
+    <article>
+        <h3>Techniques (Hard Skills)</h3>
+        <p>
+            <strong>Langages :</strong> HTML5, CSS3, JavaScript (ES6+), SQL, Python.
+            <br>
+            <strong>Frameworks/Librairies :</strong> React, Node.js, Bootstrap.
+            <br>
+            <strong>Outils :</strong> Git/GitHub, VS Code, Suite Office/Google Workspace.
+        </p>
+    </article>
+    
+    <article>
+        <h3>Transversales (Soft Skills)</h3>
+        <ul>
+            <li>Autonomie et proactivité</li>
+            <li>Esprit d'équipe et collaboration</li>
+            <li>Résolution de problèmes</li>
+            <li>Gestion du temps et des priorités</li>
+        </ul>
+    </article>
+
+     <article>
+        <h3>Transversales (Soft Skills)</h3>
+        <ul>
+            <li>Autonomie et proactivité</li>
+            <li>Esprit d'équipe et collaboration</li>
+            <li>Résolution de problèmes</li>
+            <li>Gestion du temps et des priorités</li>
+        </ul>
+    </article>
+</section>
+
     </body>
 </html>
